@@ -1,23 +1,16 @@
-::: {#content .content}
-::: {#table-of-contents role="doc-toc"}
 ## Table of Contents
 
-::: {#text-table-of-contents role="doc-toc"}
--   [1. Data/APIs](#orgf2d6429)
--   [2. Geosaptial Analysis Libraries/Tools](#org4fec972)
--   [3. GIS/RS Software](#org2451aaa)
--   [4. Web GIS](#org89acf02)
--   [5. Spatial Databases](#orga3f2d79)
--   [6. Organizations/Enterprises/Communities/Forums](#org1058eff)
--   [7. Mechanisms/Terminology](#org58c2ddb)
--   [8. Courses](#org03f4a8d)
-:::
-:::
+-   [Data/APIs](#Data/APIs])
+-   [Geosaptial Analysis Libraries/Tools](#Geosaptial Analysis Libraries/Tools)
+-   [GIS/RS Software](#GIS/RS Software])
+-   [Web GIS](#Web GIS)
+-   [Spatial Databases](#Spatial Databases)
+-   [Organizations/Enterprises/Communities/Forums](#Organizations/Enterprises/Communities/Forums)
+-   [Mechanisms/Terminology](#Mechanisms/Terminology)
+-   [Courses](#Courses)
 
-::: {#outline-container-orgf2d6429 .outline-2}
-## [1.]{.section-number-2} Data/APIs {#orgf2d6429}
+## Data/APIs
 
-::: {#text-1 .outline-text-2}
 -   [OpenWeather API](https://openweathermap.org/api):
     [OpenWeather](https://openweathermap.org) provides hyperlocal minute
     forecast, historical data, current state, and from short-term to
@@ -118,42 +111,26 @@
 -   [Global ML Building
     Footprints](https://github.com/microsoft/GlobalMLBuildingFootprints):
     Worldwide building footprints derived from satellite imagery.
-:::
-:::
 
-::: {#outline-container-org4fec972 .outline-2}
-## [2.]{.section-number-2} Geosaptial Analysis Libraries/Tools {#org4fec972}
-:::
+## Geosaptial Analysis Libraries/Tools 
 
-::: {#outline-container-org2451aaa .outline-2}
-## [3.]{.section-number-2} GIS/RS Software {#org2451aaa}
-:::
+## GIS/RS Software 
 
-::: {#outline-container-org89acf02 .outline-2}
-## [4.]{.section-number-2} Web GIS {#org89acf02}
+## Web GIS 
 
-::: {#text-4 .outline-text-2}
 -   [ArcGIS
     Online](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview):
     Cloud-based software to create and share interactive web maps.
-:::
-:::
 
-::: {#outline-container-orga3f2d79 .outline-2}
-## [5.]{.section-number-2} Spatial Databases {#orga3f2d79}
+## patial Databases 
 
-::: {#text-5 .outline-text-2}
 -   [PostGIS](https://postgis.net): PostGIS is a spatial database
     extender for [PostgreSQL](https://postgresql.org/) object-relational
     database. It adds support for geographic objects allowing location
     queries to be run in SQL.
-:::
-:::
 
-::: {#outline-container-org1058eff .outline-2}
-## [6.]{.section-number-2} Organizations/Enterprises/Communities/Forums {#org1058eff}
+## Organizations/Enterprises/Communities/Forums 
 
-::: {#text-6 .outline-text-2}
 -   [OSGeo](https://www.osgeo.org): The Open Source Geospatial
     Foundation (OSGeo) is a not-for-profit organization whose mission is
     to foster global adoption of open geospatial technology by being an
@@ -173,19 +150,12 @@
     Intelligence platform, enabling organizations to use spatial data
     and analysis for more efficient delivery routes, better behavioural
     marketing, strategic store placements, and much more.
-:::
-:::
 
-::: {#outline-container-org58c2ddb .outline-2}
-## [7.]{.section-number-2} Mechanisms/Terminology {#org58c2ddb}
+## Mechanisms/Terminology 
 
-::: {#text-7 .outline-text-2}
 -   [Köppen climate
     classification](https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification):
     The Köppen climate classification is one of the most widely used
     climate classification systems.
-:::
-:::
 
-::: {#outline-container-org03f4a8d .outline-2}
-## [8.]{.section-number-2} Courses {#org03f4a8d}
+## Courses 
