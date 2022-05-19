@@ -29,8 +29,9 @@
 - [[https://github.com/microsoft/GlobalMLBuildingFootprints][Global ML Building Footprints]]: Worldwide building footprints derived from satellite imagery.
 * Geosaptial Analysis Libraries/Tools
 * GIS/RS Software
-* Web GIS
+* Web GIS/Frontend GIS Frameworks/...
 - [[https://www.esri.com/en-us/arcgis/products/arcgis-online/overview][ArcGIS Online]]: Cloud-based software to create and share interactive web maps.
+- [[https://maplibre.org][MapLibre]]: Open-source mapping libraries for developers of web and mobile applications.
 * Spatial Databases
 - [[https://postgis.net][PostGIS]]: PostGIS is a spatial database extender for [[https://postgresql.org/][PostgreSQL]] object-relational database. It adds support for geographic objects allowing location queries to be run in SQL.
 * Organizations/Enterprises/Communities/Forums
@@ -40,5 +41,4 @@
 - [[https://carto.com][CARTO]]: CARTO is the world’s leading Location Intelligence platform, enabling organizations to use spatial data and analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
 * Mechanisms/Terminology
 - [[https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification][Köppen climate classification]]: The Köppen climate classification is one of the most widely used climate classification systems.
-
 * Courses
