@@ -29,9 +29,10 @@
 - [[https://github.com/microsoft/GlobalMLBuildingFootprints][Global ML Building Footprints]]: Worldwide building footprints derived from satellite imagery.
 * Geosaptial Analysis Libraries/Tools
 * GIS/RS Software
-* Web GIS/Frontend GIS Frameworks/...
+* Web GIS/Frontend GIS Frameworks
 - [[https://www.esri.com/en-us/arcgis/products/arcgis-online/overview][ArcGIS Online]]: Cloud-based software to create and share interactive web maps.
 - [[https://maplibre.org][MapLibre]]: Open-source mapping libraries for developers of web and mobile applications.
+- [[https://github.com/maplibre/maplibre-rs][maplibre-rs]]: maplibre-rs is a portable and performant vector maps renderer. We aim to support web, mobile and desktop applications. This is achieved by the novel WebGPU specification.
 * Spatial Databases
 - [[https://postgis.net][PostGIS]]: PostGIS is a spatial database extender for [[https://postgresql.org/][PostgreSQL]] object-relational database. It adds support for geographic objects allowing location queries to be run in SQL.
 * Organizations/Enterprises/Communities/Forums
